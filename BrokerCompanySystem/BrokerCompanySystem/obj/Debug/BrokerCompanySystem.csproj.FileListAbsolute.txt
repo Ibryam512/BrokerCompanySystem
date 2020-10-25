@@ -1,0 +1,7 @@
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\BrokerCompanySystem.csprojAssemblyReference.cache
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\BrokerCompanySystem.csproj.CoreCompileInputs.cache
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\BrokerCompanySystem.exe.config
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\BrokerCompanySystem.exe
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\bin\Debug\BrokerCompanySystem.pdb
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\BrokerCompanySystem.exe
+C:\Users\10 it kariera 13\source\repos\BrokerCompanySystem\BrokerCompanySystem\obj\Debug\BrokerCompanySystem.pdb
